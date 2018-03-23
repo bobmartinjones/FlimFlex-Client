@@ -1,0 +1,8 @@
+<div class="tilecontainer">
+    <img src="{{this._utilService.posterURL(data.poster_path)}}" alt="{{data.title}}" class="image img" style="width:100%">
+    <div class="middle">
+      <div class="text">{{data.title}}</div>
+      <rating [(ngModel)]="starsCount">
+    </rating>
+    </div>
+  </div>

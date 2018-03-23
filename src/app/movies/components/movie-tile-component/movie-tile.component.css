@@ -1,0 +1,114 @@
+.tilecontainer {
+    position: relative;
+    width: 50%;
+    float: left;
+}
+
+@media (min-width: 468px) { 
+  .tilecontainer {
+      width: 49%;
+  }
+ }
+
+@media (min-width: 768px) { 
+  .tilecontainer {
+      width: 25%;
+  }
+ }
+
+@media (min-width: 1200px) { 
+  .tilecontainer {
+    width: 20%;
+  }
+}
+
+.tilecontainer .image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  max-height: 310px;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.tilecontainer .middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.tilecontainer:hover .image {
+  opacity: 0.3;
+}
+
+.tilecontainer:hover .middle {
+  opacity: 1;
+}
+
+.tilecontainer .text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 10px 52px;
+}
+
+
+
+
+/* Login Drop down *** TODO Move to Component*** */
+#login-dp{
+  min-width: 250px;
+  padding: 14px 14px 0;
+  overflow:hidden;
+  background-color:rgba(255,255,255,.8);
+}
+#login-dp .help-block{
+  font-size:12px    
+}
+#login-dp .bottom{
+  background-color:rgba(255,255,255,.8);
+  border-top:1px solid #ddd;
+  clear:both;
+  padding:14px;
+}
+#login-dp .social-buttons{
+  margin:12px 0    
+}
+#login-dp .social-buttons a{
+  width: 49%;
+}
+#login-dp .form-group {
+  margin-bottom: 10px;
+}
+.btn-fb{
+  color: #fff;
+  background-color:#3b5998;
+}
+.btn-fb:hover{
+  color: #fff;
+  background-color:#496ebc 
+}
+.btn-tw{
+  color: #fff;
+  background-color:#55acee;
+}
+.btn-tw:hover{
+  color: #fff;
+  background-color:#59b5fa;
+}
+@media(max-width:768px){
+  #login-dp{
+      background-color: inherit;
+      color: #fff;
+  }
+  #login-dp .bottom{
+      background-color: inherit;
+      border-top:0 none;
+  }
+}
