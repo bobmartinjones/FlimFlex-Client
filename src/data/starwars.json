@@ -1,0 +1,284 @@
+{
+  "Movies": [
+    {
+      "Title": "Star Wars: Episode I - The Phantom Menace",
+      "Year": "1999",
+      "Rated": "PG",
+      "Released": "19 May 1999",
+      "Runtime": "136 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd",
+      "Plot": "The evil Trade Federation, led by Nute Gunray is planning to take over the peaceful world of Naboo. Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi are sent to confront the leaders. But not everything goes to plan. The two Jedi escape, and along with their new Gungan friend, Jar Jar Binks head to Naboo to warn Queen Amidala, but droids have already started to capture Naboo and the Queen is not safe there. Eventually, they land on Tatooine, where they become friends with a young boy known as Anakin Skywalker. Qui-Gon is curious about the boy, and sees a bright future for him. The group must now find a way of getting to Coruscant and to finally solve this trade dispute, but there is someone else hiding in the shadows. Are the Sith really extinct? Is the Queen really who she says she is? And what's so special about this young boy?",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Oscars. Another 25 wins & 60 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2FmZGIwMzAtZTBkMS00M2JiLTk2MDctM2FlNTQ2OWYwZDZkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "55%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "Metascore": "51",
+      "imdbRating": "6.5",
+      "imdbVotes": "573,249",
+      "imdbID": "tt0120915",
+      "Type": "movie",
+      "DVD": "16 Oct 2001",
+      "BoxOffice": "$431,000,000",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/episode-i/",
+      "Response": "True"
+    },
+    {
+      "Title": "Star Wars: The Clone Wars",
+      "Year": "2008",
+      "Rated": "PG",
+      "Released": "15 Aug 2008",
+      "Runtime": "98 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Dave Filoni",
+      "Writer": "Henry Gilroy, Steven Melching, Scott Murphy",
+      "Actors": "Matt Lanter, Ashley Eckstein, James Arnold Taylor, Dee Bradley Baker",
+      "Plot": "As the Clone Wars sweep through the galaxy, the heroic Jedi Knights struggle to maintain order and restore peace. More and more systems are falling prey to the forces of the dark side as the Galactic Republic slips further and further under the sway of the Separatists and their never-ending droid army. Anakin Skywalker and his Padawan learner Ahsoka Tano find themselves on a mission with far-reaching consequences, one that brings them face-to-face with crime lord Jabba the Hutt. But Count Dooku and his sinister agents, including the nefarious Asajj Ventress, will stop at nothing to ensure that Anakin and Ahsoka fail at their quest. Meanwhile, on the front lines of the Clone Wars, Obi-Wan Kenobi and Master Yoda lead the massive clone army in a valiant effort to resist the forces of the dark side ...",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MDIwMTczOV5BMl5BanBnXkFtZTcwNTI4MDE3MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "18%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "35/100"
+        }
+      ],
+      "Metascore": "35",
+      "imdbRating": "5.9",
+      "imdbVotes": "45,027",
+      "imdbID": "tt1185834",
+      "Type": "movie",
+      "DVD": "11 Nov 2008",
+      "BoxOffice": "$35,089,551",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://www.starwars.com/theclonewars/",
+      "Response": "True"
+    },
+    {
+      "Title": "Star Wars: Episode III - Revenge of the Sith",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "19 May 2005",
+      "Runtime": "140 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid",
+      "Plot": "Near the end of the Clone Wars, Darth Sidious has revealed himself and is ready to execute the last part of his plan to rule the galaxy. Sidious is ready for his new apprentice, Darth Vader, to step into action and kill the remaining Jedi. Vader, however, struggles to choose the dark side and save his wife or remain loyal to the Jedi order.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 25 wins & 56 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.6",
+      "imdbVotes": "558,072",
+      "imdbID": "tt0121766",
+      "Type": "movie",
+      "DVD": "01 Nov 2005",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/",
+      "Response": "True"
+    },
+    {
+      "Title": "Star Wars: Episode IV - A New Hope",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "25 May 1977",
+      "Runtime": "121 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+      "Plot": "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance and restore freedom and justice to the Galaxy.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 6 Oscars. Another 50 wins & 28 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzQ2OTk4N2QtOGQwNy00MmI3LWEwNmEtOTk0OTY3NDk2MGJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "92/100"
+        }
+      ],
+      "Metascore": "92",
+      "imdbRating": "8.7",
+      "imdbVotes": "982,688",
+      "imdbID": "tt0076759",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/episode-iv/",
+      "Response": "True"
+    },
+    {
+      "Title": "Star Wars: Episode V - The Empire Strikes Back",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "20 Jun 1980",
+      "Runtime": "124 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Irvin Kershner",
+      "Writer": "Leigh Brackett (screenplay), Lawrence Kasdan (screenplay), George Lucas (story by)",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "Plot": "Luke Skywalker, Han Solo, Princess Leia and Chewbacca face attack by the Imperial forces and its AT-AT walkers on the ice planet Hoth. While Han and Leia escape in the Millennium Falcon, Luke travels to Dagobah in search of Yoda. Only with the Jedi master's help will Luke survive when the dark side of the Force beckons him into the ultimate duel with Darth Vader.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 21 wins & 19 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmViY2M2MTYtY2MzOS00YjQ1LWIzYmEtOTBiNjhlMGM0NjZjXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.8",
+      "imdbVotes": "910,608",
+      "imdbID": "tt0080684",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "$4,548,170",
+      "Production": "Twentieth Century Fox",
+      "Website": "http://www.starwars.com/episode-v/",
+      "Response": "True"
+    },
+    {
+      "Title": "Star Wars: Episode VI - Return of the Jedi",
+      "Year": "1983",
+      "Rated": "PG",
+      "Released": "25 May 1983",
+      "Runtime": "131 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Richard Marquand",
+      "Writer": "Lawrence Kasdan (screenplay), George Lucas (screenplay), George Lucas (story by)",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "Plot": "Luke Skywalker battles horrible Jabba the Hut and cruel Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo and Princess Leia reaffirm their love and team with Chewbacca, Lando Calrissian, the Ewoks and the androids C-3PO and R2-D2 to aid in the disruption of the Dark Side and the defeat of the evil emperor.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 4 Oscars. Another 20 wins & 16 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BODllZjg2YjUtNWEzNy00ZGY2LTgyZmQtYTkxNDYyOWM3OTUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "53/100"
+        }
+      ],
+      "Metascore": "53",
+      "imdbRating": "8.4",
+      "imdbVotes": "742,277",
+      "imdbID": "tt0086190",
+      "Type": "movie",
+      "DVD": "12 Sep 2006",
+      "BoxOffice": "N/A",
+      "Production": "Twentieth Century Fox",
+      "Website": "http://www.starwars.com/episode-vi/",
+      "Response": "True"
+    },
+    {
+      "Title": "Rogue One",
+      "Year": "2016",
+      "Rated": "PG-13",
+      "Released": "16 Dec 2016",
+      "Runtime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gareth Edwards",
+      "Writer": "Chris Weitz (screenplay), Tony Gilroy (screenplay), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)",
+      "Actors": "Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",
+      "Plot": "All looks lost for the Rebellion against the Empire as they learn of the existence of a new super weapon, the Death Star. Once a possible weakness in its construction is uncovered, the Rebel Alliance must set out on a desperate mission to steal the plans for the Death Star. The future of the entire galaxy now rests upon its success.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 11 wins & 72 nominations.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "7.9",
+      "imdbVotes": "329,408",
+      "imdbID": "tt3748528",
+      "Type": "movie",
+      "DVD": "04 Apr 2017",
+      "BoxOffice": "$532,171,696",
+      "Production": "Walt Disney Pictures",
+      "Website": "http://www.starwars.com/",
+      "Response": "True"
+    }
+  ]
+}

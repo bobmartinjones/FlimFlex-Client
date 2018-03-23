@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: #14181c;
+    margin: 0;
+}
+
+.navbar {
+    background: #313b46;
+}
+
+
+@media (min-width: 1200px) 
+{
+    .container {
+        width: 90%;
+    }
+}
+
